@@ -1,0 +1,53 @@
+h3{
+    font-size:20px;
+    text-align: center;
+    line-height: 25px;
+}
+
+
+.info-card{
+    display:flex;
+   
+    width: 550px;
+
+    justify-content: center;
+    align-items: center;
+    height:100px;
+    margin-top: 25px;
+    background-color: #e7e7e7;
+    border: solid 1px;
+}
+
+.main-card{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.store-items-button{
+    width:30px;
+    height:30px;
+    text-align: center;
+}
+
+.image-container{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.data-container{
+    
+    width:500px;
+}
+
+img{
+    height:100px;
+}
+
+.remove-button-test{
+    background-color: green; 
+    width: 30px;
+    height: 25px;
+}

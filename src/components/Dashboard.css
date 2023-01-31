@@ -1,0 +1,9 @@
+ .component1{
+    display:flex;
+ }
+
+ .component2{
+   width:100%;
+   margin-left: 2%;
+   margin-right: 2%;
+ }

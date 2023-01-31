@@ -1,0 +1,26 @@
+.searchbox{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 400px;
+    font-size: 20px;
+    height: 60px
+}
+
+.searchResults{
+    height:67vh;
+   
+    border: solid 4px green;
+    overflow-y:scroll;
+    text-align: center;;
+}
+
+.booksearch-main{
+    width:600px;
+    border: solid 3px blue;
+    margin-left: 20px;
+}

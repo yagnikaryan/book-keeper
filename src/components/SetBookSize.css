@@ -1,0 +1,15 @@
+.set-books-size-input{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    background-color: #e7e7e7;
+    overflow:hidden;
+    margin:15px;
+}
+
+button:hover{
+    background-color: #9c9c9c;
+}
