@@ -1,0 +1,66 @@
+*{
+    margin:0
+}
+
+.searchbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.root{
+    width: 100vh;
+}
+
+.searchboxtype{
+    width: 100vh;
+    font-size: 20px;
+    height: 60px
+}
+
+.searchResults{
+    height:100vh;
+    overflow-y:scroll;
+  
+}
+
+.card1{
+ 
+    justify-content: center;
+}
+
+.card2{
+    text-align: center;
+}
+
+.booksearch-main{
+   
+    padding: 0;
+}
+
+.image-container{
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+input{
+    border-radius: 20px;
+}
+
+
+.author h5{
+    font-size:20px
+}
+  
+.description h5{
+    font-size: 20px;
+}
+  
+.description h4{
+    font-size: 15px;
+}
+

@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: "Figtree", -apple-system, BlinkMacSystemFont, "Segoe UI", "Figtree", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    height: 100vh;
+    background: rgb(232, 232, 232);
+    font-size: 24px;
+    
+  }
+  .app {
+    background: #cfb573;
+  }
+  h1 {
+    color: black;
+    margin: 50px auto;
+    font-size: 40px;
+  }
+  .menu1 {
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
+  h2 {
+    color: black;
+    font-size: 100%;
+  }
+  
+  section{
+    flex-grow: 1;
+  }
+  
+  
