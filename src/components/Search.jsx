@@ -78,7 +78,7 @@ export default function Search(){
     }
 
     function getAPIData(title){
-        fetch(`https://www.googleapis.com/books/v1/volumes?q=${title}s&key=AIzaSyB9KnXeZh_CTHkCd8xL-m2M25r8proPNuI`)
+        fetch(`https://www.googleapis.com/books/v1/volumes?q=${title}s&key={INSERT KEY}`)
             .then((res) => res.json())
             .then((json) => {
                 setBooksData({
